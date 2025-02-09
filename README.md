@@ -63,21 +63,22 @@ POST /api/authenticate - Authenticate with a wallet signature
 
 ### Tasks
 
-GET /api/tasks - Fetch all tasks
-POST /api/tasks - Create a new task
-PUT /api/tasks/:id - Update a task
-DELETE /api/tasks/:id - Delete a task
-GET /api/tasks/stats - Fetch task statistics
+- GET /api/tasks - Fetch all tasks
+- POST /api/tasks - Create a new task
+- PUT /api/tasks/:id - Update a task
+- DELETE /api/tasks/:id - Delete a task
+- GET /api/tasks/stats - Fetch task statistics
 
 ## 🔗 Smart Contract
 
-Network: Sepolia Testnet
+**Network:** Sepolia Testnet
 
-Contract Address: 
+**Contract Address:** 
 ```
 0x14934056Ddfcf3B7041B833e09D6e21d1F52Ca5D
 ```
-ABI: (Located in server.js)
+
+**ABI: (Located in server.js)**
 
 ```
 [
