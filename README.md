@@ -48,7 +48,7 @@ $ npm install
 ### 3️⃣ Configure Environment Variables
 
 Create a .env file in the backend folder and add:
-```
+```.env
 JWT_SECRET=your_secret_key
 INFURA_API_KEY=your_infura_key
 OPENAI_API_KEY=your_openai_key
