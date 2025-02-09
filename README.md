@@ -29,8 +29,10 @@ TaskChain is a decentralized task management application that allows users to cr
 
 ### 1️⃣ Clone the Repository
 
+```
 $ git clone https://github.com/your-repo/taskchain.git
 $ cd taskchain
+```
 
 ### 2️⃣ Install Dependencies for both frontend and backend seperately
 
