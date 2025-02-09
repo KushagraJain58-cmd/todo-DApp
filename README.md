@@ -107,10 +107,10 @@ POST /api/authenticate - Authenticate with a wallet signature
 
 ## 🎯 Future Enhancements
 
--Persistent Database (MongoDB/PostgreSQL)
--Multi-Chain Support
--Notifications & Reminders
--Task Delegation & Sharing
+- Persistent Database (MongoDB/PostgreSQL)
+- Multi-Chain Support
+- Notifications & Reminders
+- Task Delegation & Sharing
 
 ## 🤝 Contributing
 
