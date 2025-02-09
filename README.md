@@ -86,7 +86,7 @@ POST /api/authenticate - Authenticate with a wallet signature
 
 **ABI: (Located in server.js)**
 
-```
+```json
 [
   {
     "inputs": [
