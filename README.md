@@ -42,8 +42,8 @@ https://drive.google.com/file/d/1zOfiHKvUZcpA7BIiGEQ-UTaEdCF8mxE7/view?usp=shari
 
 ### 2️⃣ Install Dependencies for both frontend and backend seperately
 
-```
-$ npm install
+```sh
+ npm install
 ```
 ### 3️⃣ Configure Environment Variables
 
@@ -54,12 +54,12 @@ INFURA_API_KEY=your_infura_key
 OPENAI_API_KEY=your_openai_key
 ```
 ### 4️⃣ Start the Backend Server
-```
-$ npm start
+```sh
+ npm start
 ```
 ### 5️⃣ Start the Frontend
-```
-$ npm run dev
+```sh
+ npm run dev
 ```
 ## 📡 API Endpoints
 
