@@ -35,9 +35,9 @@ https://drive.google.com/file/d/1zOfiHKvUZcpA7BIiGEQ-UTaEdCF8mxE7/view?usp=shari
 
 ### 1️⃣ Clone the Repository
 
-```cmd
-$ git clone https://github.com/your-repo/taskchain.git
-$ cd taskchain
+```sh
+ git clone https://github.com/your-repo/taskchain.git
+ cd taskchain
 ```
 
 ### 2️⃣ Install Dependencies for both frontend and backend seperately
