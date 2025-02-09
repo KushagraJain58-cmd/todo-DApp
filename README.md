@@ -36,24 +36,25 @@ $ cd taskchain
 
 ### 2️⃣ Install Dependencies for both frontend and backend seperately
 
+```
 $ npm install
-
+```
 ### 3️⃣ Configure Environment Variables
 
 Create a .env file in the backend folder and add:
-
+```
 JWT_SECRET=your_secret_key
 INFURA_API_KEY=your_infura_key
 OPENAI_API_KEY=your_openai_key
-
+```
 ### 4️⃣ Start the Backend Server
-
+```
 $ npm start
-
+```
 ### 5️⃣ Start the Frontend
-
+```
 $ npm run dev
-
+```
 ## 📡 API Endpoints
 
 ### Authentication
@@ -68,13 +69,14 @@ PUT /api/tasks/:id - Update a task
 DELETE /api/tasks/:id - Delete a task
 GET /api/tasks/stats - Fetch task statistics
 
-<hr/>
 ## 🔗 Smart Contract
 
 Network: Sepolia Testnet
 
-Contract Address: 0x14934056Ddfcf3B7041B833e09D6e21d1F52Ca5D
-
+Contract Address: 
+```
+0x14934056Ddfcf3B7041B833e09D6e21d1F52Ca5D
+```
 ABI: (Located in server.js)
 
 ```
