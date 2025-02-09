@@ -1,26 +1,3 @@
-// export default function TaskList({ tasks, onUpdateTask, onDeleteTask }) {
-//   return (
-//     <ul className="space-y-4">
-//       {tasks.map((task) => (
-//         <li key={task.id} className="flex items-center justify-between bg-white p-4 rounded shadow">
-//           <div className="flex items-center">
-//             <input
-//               type="checkbox"
-//               checked={task.completed}
-//               onChange={() => onUpdateTask(task.id, !task.completed)}
-//               className="mr-4"
-//             />
-//             <span className={task.completed ? "line-through" : ""}>{task.title}</span>
-//           </div>
-//           <button onClick={() => onDeleteTask(task.id)} className="text-red-500 hover:text-red-700">
-//             Delete
-//           </button>
-//         </li>
-//       ))}
-//     </ul>
-//   )
-// }
-
 import { Checkbox, Button } from "@mui/material";
 import { Trash2 } from "lucide-react";
 

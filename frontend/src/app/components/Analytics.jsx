@@ -1,21 +1,3 @@
-// export default function Analytics({ tasks }) {
-//   const completedTasks = tasks.filter((task) => task.completed).length
-//   const totalTasks = tasks.length
-//   const completionPercentage = totalTasks > 0 ? (completedTasks / totalTasks) * 100 : 0
-
-//   return (
-//     <div className="mt-8 bg-white p-4 rounded shadow">
-//       <h2 className="text-2xl font-bold mb-4">Task Completion Analytics</h2>
-//       <p>Total Tasks: {totalTasks}</p>
-//       <p>Completed Tasks: {completedTasks}</p>
-//       <p>Completion Percentage: {completionPercentage.toFixed(2)}%</p>
-//       <div className="w-full bg-gray-200 rounded-full h-2.5 mt-2">
-//         <div className="bg-blue-600 h-2.5 rounded-full" style={{ width: `${completionPercentage}%` }}></div>
-//       </div>
-//     </div>
-//   )
-// }
-
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import CardHeader from '@mui/material/CardHeader'
