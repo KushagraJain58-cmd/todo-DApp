@@ -2,6 +2,12 @@
 
 TaskChain is a decentralized task management application that allows users to create, update, and track tasks with blockchain verification. It integrates Web3 authentication, task analytics, and AI-powered task prioritization.
 
+## 📷 Demo Video Link
+
+```
+https://drive.google.com/file/d/1zOfiHKvUZcpA7BIiGEQ-UTaEdCF8mxE7/view?usp=sharing
+```
+
 ## 🚀 Features
 
 - Web3 Authentication (MetaMask)
